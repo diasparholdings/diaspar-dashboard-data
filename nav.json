@@ -1,3 +1,8 @@
 {
-  "nav": 20
+  "default": 1.0,
+  "wallets": {
+    "0x83e400412f2A2450Cc6e1E913E3154183864dfDa": 150,
+    "0x81aF1E160c290E8Fff6381CCF67981f012Cf1009": 120,
+    "0x087eA10de9BDDb68562EC93d1a235e3fE2826a8B": 124
+  }
 }
